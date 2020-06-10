@@ -1,26 +1,28 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, { Comonent } from 'react';
 import './App.css';
+import Header from './Components/Header';
+import About from './Components/About';
+import Contact from './Components/Contact';
+import Footer from './Components/Footer';
+import Portfolio from './Components/Portfolio';
+import Resume from './Components/Resume';
+import Testimonials from './Components/Testimonials';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+
+class App extends Comonent {
+  render() {
+    return (
+      <div className="App">
+        <Header />
+        <About />
+        <Resume />
+        <Portfolio />
+        <Testimonials />
+        <Contact />
+        <Footer />
+      </div>
+    );
+  }
 }
 
 export default App;
