@@ -1,0 +1,171 @@
+{
+  "main": {
+    "name":"Jelena Zobenica",
+    "occupation":"Fullstack developer/Angular/React/Java",
+    "description":"I program banking and insurance applications (CRM for banks, net banking).",
+    "image":"DSC_3214nova.jpg",
+    "bio":"I would like to be a part of an open-minded environment which is ready for changes, which inspires and sets examples to others. As someone who prefers quality over quantity, I have constantly been taking small steps in order to search for a better version of myself and thus contribute to my surroundings. Should you consider that we are led by the same compass and if you feel that I would be suitable for your business policy, I would gladly accept your invitation.",
+    "email": "jelena.zobenica1@gmail.com",
+    "phone": "555-555-5555",
+    "address":{
+      "street":"Djordja Rajkovica 23/5",
+      "city":"Novi Sad",
+      "state":"Serbia",
+      "zip": "21000"
+    },
+    "website": "jzresume.surge.sh",
+    "resumedownload":"http://something.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"google-plus",
+        "url":"http://googleplus.com",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/jelena-zobenica/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/jecaz",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"gitlab",
+        "url":"https://gitlab.com/users/JelenaZobenica/projects",
+        "className":"fa fa-gitlab"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "education":[
+      {
+        "school":"FTN Informatics",
+        "degree":"Advanced Java Web Development",
+        "graduated":"2018",
+        "description":""
+      },
+      {
+        "school":"Faculty of Economics in Subotica, Department in Novi Sad",
+        "degree":"European and International Economics and Business",
+        "graduated":"February 2014",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"Premium Software",
+        "title":"Software engineer",
+        "years":"September 2018 - Present",
+        "description":"Working on CRM for banking software applying technologies Java, Spring Boot, Angular 8, PrimeNG, HTML5, CSS3."
+      },
+      {
+        "company":"BrightMarbles",
+        "title":"Backend Internship",
+        "years":"March � Jun 2018",
+        "description":"Implementing multimodular Maven project with Spring (Spring Boot, Spring Data JPA and Hibernate, Spring Security) and MySql database, covering code by JUnit and Mockito tests"
+      },
+     {
+        "company":"COING",
+        "title":"Junior Software Engineer",
+        "years":"January � November 2017",
+        "description":"Front-End web development on Clockify project (https://clockify.me/) using HTML, CSS, Sass, Compass, Angular 4 and JavaScript"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Angular",
+        "level":"80%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"CSS",
+        "level":"80%"
+      },
+      {
+        "name":"Java",
+        "level":"70%"
+      },
+      {
+        "name":"SpringBoot",
+        "level":"60%"
+      },
+      {
+        "name":"React",
+        "level":"50%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"CRM for bank",
+        "description":"Tracking and showing sales flow through different chart diagrams, finding solutions for UI design and making different kinds of reports, uploading and downloading documents, validating forms using Reactive forms.",
+        "category":"Angular, Spring",
+        "tags":"",
+        "image":"coffee.jpg",
+        "url":"",
+        "modal":"#modal-01"
+      },
+      {
+        "title":"Clockify",
+        "description":"Improve front-end user interface, displaying data of projects, tags, clients, crud operations, comunication between different pages.",
+        "category":"Web Development",
+        "tags":"Tracking tool",
+        "image":"console.jpg",
+        "url":"https://clockify.me/",
+        "modal":"#modal-02"
+      },
+      {
+        "title":"Olympus",
+        "description":"Focus on this project was to create page layout similar to social networks in Angular 7. I tried to use CSS grid and Flex layout techniques and follow best HTML and CSS practice(folder structure, element naming, CSS classes naming, measure units, responsive design). Also, one of the goals was to implement basic routing from login-page to profile-page and try to find similar blocks and re-use components in Angular.",
+        "category":"Web Development",
+        "tags":"Web Programming",
+        "image":"judah.jpg",
+        "url":"http://olympus.surge.sh/",
+        "modal":"#modal-03"
+      },
+      {
+        "title":"Weather Forecast",
+        "description":"This application is about a weather forecast search engine, by city. User has ability to to search multiple cities and sees the current weather conditions.",
+        "category":"Weather",
+        "tags":"Weather, Design",
+        "image":"into-the-light.jpg",
+        "url":"https://web-app-weather-forecast.herokuapp.com/",
+        "modal":"#modal-04"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"�Efficient self-learner� comes to my mind when I think about Jelena. Being one of reviewers of her internship work and collaborating on Clockify project, I had the pleasure of working with her for six months. Thing we have in common is that we both started programming from scratch. Having that in mind, I really admire the way she handled all work-related challenges. As she encountered new technologies such as HTML, CSS, SASS, Compass and AngularJS, she proved to be quick-learner by gaining hands-on experience. The biggest rivalry we had at the table football where she shook my confidence from time to time. On the other hand, her persistency and devotion to the game, she demonstrated in the work too. As highly motivated teammate, Jelena would be an asset to any organization..",
+        "user":"Stefan Katic"
+      }
+    ]
+  }
+}

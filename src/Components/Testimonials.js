@@ -4,14 +4,14 @@ class Testimonials extends Component {
   render() {
     return (
       <section id="testimonials">
-        <div class="text-container">
-          <div class="row">
-            <div class="two columns header-col">
+        <div className="text-container">
+          <div className="row">
+            <div className="two columns header-col">
               <h1><span>Client Testimonials</span></h1>
             </div>
-            <div class="ten columns flex-container">
-              <div class="flexslider">
-                <ul class="slides">
+            <div className="ten columns flex-container">
+              <div className="flexslider">
+                <ul className="slides">
                   <li>
                     <blockquote>
                       <p>Your work is going to fill a large part of your life, and the only way to be truly satisfied is
