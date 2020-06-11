@@ -1,8 +1,8 @@
 {
   "main": {
     "name":"Jelena Zobenica",
-    "occupation":"Fullstack developer/Angular/React/Java",
-    "description":"I program banking and insurance applications (CRM for banks, net banking).",
+    "occupation":"Software Developer | Angular, React, Java",
+    "description":"I program banking and insurance applications (CRM for banks, net banking). Currently I am upgrading my React skills",
     "image":"DSC_3214nova.jpg",
     "bio":"I would like to be a part of an open-minded environment which is ready for changes, which inspires and sets examples to others. As someone who prefers quality over quantity, I have constantly been taking small steps in order to search for a better version of myself and thus contribute to my surroundings. Should you consider that we are led by the same compass and if you feel that I would be suitable for your business policy, I would gladly accept your invitation.",
     "email": "jelena.zobenica1@gmail.com",
@@ -17,29 +17,9 @@
     "resumedownload":"http://something.com",
     "social":[
       {
-        "name":"facebook",
-        "url":"http://facebook.com",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"google-plus",
-        "url":"http://googleplus.com",
-        "className":"fa fa-google-plus"
-      },
-      {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/jelena-zobenica/",
-        "className":"fa fa-linkedin"
-      },
-      {
-        "name":"instagram",
-        "url":"http://instagram.com",
-        "className":"fa fa-instagram"
+        "className":"fa fa-linkedin facebook"
       },
       {
         "name":"github",
@@ -52,9 +32,9 @@
         "className":"fa fa-gitlab"
       },
       {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
+        "name":"email",
+        "url":"mailto:jelena.zobenica1@gmail.com",
+        "className":"fa fa-envelope"
       }
     ]
   },
