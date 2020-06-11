@@ -1,6 +1,6 @@
-import React, { Comonent } from 'react';
+import React, { Component } from 'react';
 
-class Portfolio extends Comonent {
+class Portfolio extends Component {
   render() {
     return (
       <div>

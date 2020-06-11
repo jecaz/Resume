@@ -1,6 +1,6 @@
-import React, { Comonent } from 'react';
+import React, { Component } from 'react';
 
-class Footer extends Comonent {
+class Footer extends Component {
   render() {
     return (
       <div>

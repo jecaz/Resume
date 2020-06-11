@@ -1,6 +1,6 @@
-import React, { Comonent } from 'react';
+import React, { Component } from 'react';
 
-class Testimonials extends Comonent {
+class Testimonials extends Component {
   render() {
     return (
       <div>

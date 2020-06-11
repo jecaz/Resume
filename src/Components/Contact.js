@@ -1,6 +1,6 @@
-import React, { Comonent } from 'react';
+import React, { Component } from 'react';
 
-class Contact extends Comonent {
+class Contact extends Component {
   render() {
     return (
       <div>
