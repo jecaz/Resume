@@ -4,12 +4,9 @@ class Header extends Component {
   render() {
     return (
       <header id="home">
-
         <nav id="nav-wrap">
-
           <a class="mobile-btn" href="#nav-wrap" title="Show navigation">Show navigation</a>
           <a class="mobile-btn" href="#/" title="Hide navigation">Hide navigation</a>
-
           <ul id="nav" class="nav">
             <li class="current"><a class="smoothscroll" href="#home">Home</a></li>
             <li><a class="smoothscroll" href="#about">About</a></li>
@@ -18,9 +15,7 @@ class Header extends Component {
             <li><a class="smoothscroll" href="#testimonials">Testimonials</a></li>
             <li><a class="smoothscroll" href="#contact">Contact</a></li>
           </ul>
-
         </nav>
-
         <div class="row banner">
           <div class="banner-text">
             <h1 class="responsive-headline">I'm Jonathan Doe.</h1>
@@ -39,11 +34,9 @@ class Header extends Component {
             </ul>
           </div>
         </div>
-
         <p class="scrolldown">
           <a class="smoothscroll" href="#about"><i class="icon-down-circle"></i></a>
         </p>
-
       </header>
     );
   }
