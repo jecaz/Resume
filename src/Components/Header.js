@@ -32,7 +32,7 @@ class Header extends Component {
             <h1 className="responsive-headline" style={{fontSize: 80 + 'px'}}>I'm {name}.</h1>
             <h3>I'm a {city} based <span>{occupation}</span> {description}.</h3>
             <hr />
-            <div class="slide-right banner-text">
+            <div className="slide-right banner-text">
               <h2 style={{color: '#F06000', fontWeight: 600, fontSize: 20 + 'px'}}><i>~ Be a better version of yourself ~</i></h2>
             </div>
             <ul className="social">

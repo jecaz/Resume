@@ -48,8 +48,14 @@
       },
       {
         "school":"Faculty of Economics in Subotica, Department in Novi Sad",
-        "degree":"European and International Economics and Business",
+        "degree":"Master's Degree, European and International Economics and Business",
         "graduated":"February 2014",
+        "description":""
+      },
+      {
+        "school":"Faculty of Economics in Subotica, Department in Novi Sad",
+        "degree":"Bachelor's Degree, European and International Economics and Business",
+        "graduated":"February 2012",
         "description":""
       }
     ],
@@ -84,6 +90,10 @@
       },
       {
         "name":"CSS",
+        "level":"80%"
+      },
+      {
+        "name":"Sass",
         "level":"80%"
       },
       {
