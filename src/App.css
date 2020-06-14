@@ -89,3 +89,21 @@
 .resumeTitle {
   font-size: 20px;
 }
+
+.bgrid-quarters [class*="column"] {
+  width: 30%;
+}
+
+.portfolio-item .item-wrap {
+  background: transparent;
+}
+
+.portfolio-item .portfolio-item-meta #description {
+  font: 12px/18px 'opensans-light', sans-serif;
+  color: #c6c7c7;
+  margin-bottom: 0;
+}
+
+.flexslider .slides > li {
+  display: block;
+}

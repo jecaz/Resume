@@ -115,46 +115,46 @@
       {
         "title":"CRM for bank",
         "description":"Tracking and showing sales flow through different chart diagrams, finding solutions for UI design and making different kinds of reports, uploading and downloading documents, validating forms using Reactive forms.",
-        "category":"Angular, Spring",
-        "tags":"",
-        "image":"coffee.jpg",
-        "url":"",
-        "modal":"#modal-01"
+        "category":"Web Development, Banking software",
+        "tags":"Angular 8, PrimeNG 8, Spring Boot, HTML5, CSS3",
+        "image":"crm.png",
+        "url":"http://premiumsoft.rs/"
       },
       {
         "title":"Clockify",
         "description":"Improve front-end user interface, displaying data of projects, tags, clients, crud operations, comunication between different pages.",
-        "category":"Web Development",
-        "tags":"Tracking tool",
-        "image":"console.jpg",
-        "url":"https://clockify.me/",
-        "modal":"#modal-02"
+        "category":"Web Development, Time tracking tool",
+        "tags":"Angular 4, Sass, HTML5, CSS3, Javascript",
+        "image":"clockify.png",
+        "url":"https://clockify.me/"
       },
       {
         "title":"Olympus",
-        "description":"Focus on this project was to create page layout similar to social networks in Angular 7. I tried to use CSS grid and Flex layout techniques and follow best HTML and CSS practice(folder structure, element naming, CSS classes naming, measure units, responsive design). Also, one of the goals was to implement basic routing from login-page to profile-page and try to find similar blocks and re-use components in Angular.",
+        "description":"Focus on this project was to create page layout similar to social networks in Angular 7. I tried to use CSS grid, Flex layout techniques and responsive design. Implement basic routing from login-page to profile-page and make reusable components in Angular.",
         "category":"Web Development",
-        "tags":"Web Programming",
-        "image":"judah.jpg",
-        "url":"http://olympus.surge.sh/",
-        "modal":"#modal-03"
+        "tags":"Angular 7, Sass, CSS grid and Flex layout, HTML5",
+        "image":"olympus.png",
+        "url":"http://olympus.surge.sh/"
       },
       {
         "title":"Weather Forecast",
-        "description":"This application is about a weather forecast search engine, by city. User has ability to to search multiple cities and sees the current weather conditions.",
-        "category":"Weather",
-        "tags":"Weather, Design",
-        "image":"into-the-light.jpg",
-        "url":"https://web-app-weather-forecast.herokuapp.com/",
-        "modal":"#modal-04"
+        "description":"This application is about a weather forecast search engine, by city. User has ability to search multiple cities and sees the current weather conditions.",
+        "category":"Web Development, Weather",
+        "tags":"Angular 6, Sass, HTML5, Heroku",
+        "image":"weather.png",
+        "url":"https://web-app-weather-forecast.herokuapp.com/"
       }
     ]
   },
   "testimonials":{
     "testimonials":[
       {
-        "text":"�Efficient self-learner� comes to my mind when I think about Jelena. Being one of reviewers of her internship work and collaborating on Clockify project, I had the pleasure of working with her for six months. Thing we have in common is that we both started programming from scratch. Having that in mind, I really admire the way she handled all work-related challenges. As she encountered new technologies such as HTML, CSS, SASS, Compass and AngularJS, she proved to be quick-learner by gaining hands-on experience. The biggest rivalry we had at the table football where she shook my confidence from time to time. On the other hand, her persistency and devotion to the game, she demonstrated in the work too. As highly motivated teammate, Jelena would be an asset to any organization..",
-        "user":"Stefan Katic"
+        "text":"Efficient self-learner comes to my mind when I think about Jelena. Being one of reviewers of her internship work and collaborating on Clockify project, I had the pleasure of working with her for six months. Thing we have in common is that we both started programming from scratch. Having that in mind, I really admire the way she handled all work-related challenges. As she encountered new technologies such as HTML, CSS, SASS, Compass and AngularJS, she proved to be quick-learner by gaining hands-on experience. The biggest rivalry we had at the table football where she shook my confidence from time to time. On the other hand, her persistency and devotion to the game, she demonstrated in the work too. As highly motivated teammate, Jelena would be an asset to any organization..",
+        "user":"Stefan Katic, Coing"
+      },
+      {
+        "text":"Efficient self-learner comes to my mind when I think about Jelena. Being one of reviewers of her internship work and collaborating on Clockify project, I had the pleasure of working with her for six months. Thing we have in common is that we both started programming from scratch. Having that in mind, I really admire the way she handled all work-related challenges. As she encountered new technologies such as HTML, CSS, SASS, Compass and AngularJS, she proved to be quick-learner by gaining hands-on experience. The biggest rivalry we had at the table football where she shook my confidence from time to time. On the other hand, her persistency and devotion to the game, she demonstrated in the work too. As highly motivated teammate, Jelena would be an asset to any organization..",
+        "user":"Dragan Stojkovic, Agroglobe"
       }
     ]
   }
