@@ -36,3 +36,52 @@
     transform: rotate(360deg);
   }
 }
+
+#about #profile-img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+}
+
+#about .address .centerText {
+  display: block;
+  width: 80%;
+  text-align: right;
+}
+
+.slide-right {
+  overflow: hidden;
+}
+
+.slide-right h2 {
+  animation: 2s slide-right 2s forwards;
+  transform:translateX(100%);
+}
+
+@keyframes slide-right {
+  0%, 25% {
+    opacity: 0.3;
+  }
+  50%{
+    opacity: 0.5;
+  }
+  75% {
+    opacity: 0.8;
+  }
+  100% {
+    opacity: 1;
+    transform:translateX(0);
+  }
+}
+
+.skills li {
+  height: 20px;
+}
+
+.skills .bar-expand {
+  height: 20px;
+  /*background-color: #eb4511;*/
+  /*background-image: linear-gradient(315deg, #eb4511 0%, #b02e0c 74%);*/
+  background-color: #007ea7;
+  background-image: linear-gradient(315deg, #007ea7 0%, #80ced7 74%);
+}
