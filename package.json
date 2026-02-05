@@ -7,13 +7,13 @@
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
     "bootstrap": "^4.5.0",
-    "create-react-app": "^3.4.1",
+    "create-react-app": "^5.1.0",
     "eslint-plugin-import": "^2.21.2",
     "jquery": "^3.5.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-fontawesome": "^1.7.1",
-    "react-scripts": "3.4.1"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
